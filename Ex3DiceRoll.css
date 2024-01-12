@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  padding-top: 1em;
 }
 
 h1 {
@@ -41,4 +42,9 @@ h2 {
 
 #colinlinks p {
   margin: 0px;
+}
+
+.leftheader label,
+.leftheader strong{
+  vertical-align: text-top;
 }
