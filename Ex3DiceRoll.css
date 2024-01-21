@@ -19,10 +19,6 @@ h2 {
   margin: 8px 0px 8px 0px;
 }
 
-.dim {
-  color: #999;
-}
-
 .hiddencode {
   display: none;
   font-size: small;
@@ -42,9 +38,4 @@ h2 {
 
 #colinlinks p {
   margin: 0px;
-}
-
-.leftheader label,
-.leftheader strong{
-  vertical-align: text-top;
 }
