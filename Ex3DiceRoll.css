@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  padding-top: 1em;
 }
 
 h1 {
@@ -16,10 +17,6 @@ h2 {
 
 .row {
   margin: 8px 0px 8px 0px;
-}
-
-.dim {
-  color: #999;
 }
 
 .hiddencode {
